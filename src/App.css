@@ -45,7 +45,7 @@ header p {
 }
 .hero .content .title {
   color: whitesmoke;
-  font-size: 4rem;
+  font-size: 2.5rem;
 }
 .hero .content .sub-title p {
   font-weight: 400;
@@ -59,7 +59,7 @@ header p {
 .hero .content .buttons {
   display: flex;
   align-items: center;
-  gap: 25px;
+  
 }
 .hero .content .buttons button {
   padding: 15px 30px;
